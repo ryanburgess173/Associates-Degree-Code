@@ -1,0 +1,28 @@
+INPUT
+ - get the customer's name
+ - in order to calculate the risk level, we need to get the customer's age
+ - in order to calculate the risk level, we need to get the number of traffic violations by the customer
+
+PROCESSING
+ - if violations is 4 or more: risk level is 1 (aka High)
+ - if violations is 3: risk level is 2 (aka Moderate)
+ - if violations is 2: risk level is 2 (aka Moderate)
+ - if violations is 1: risk level is 3 (aka Low)
+ - if violations is 0: risk level is 4 (aka No)
+
+ - if age < 25 and risk 1 cost is $480
+ - if age >= 25 and risk 1 cost is $410
+ - if age < 25 and risk 2 (3 tickets) cost is $450
+ - if age >= 25 and risk 2 (3 tickets) cost is $390
+ - if age < 25 and risk 2 (2 tickets) cost is $405
+ - if age >= 25 and risk 2 (2 tickets) cost is $365
+ - if age < 25 and risk 3 cost is $380
+ - if age >= 25 and risk 3 cost is $315
+ - if age < 25 and risk 4 cost is $325
+ - if age >= 25 and risk 4 cost is $275
+
+
+OUTPUT
+ - output the customer's name
+ - output the risk level of the customer
+ - output the monthly cost of insurance for that customer
