@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Student-Organizer-Desktop/1.0.0": {
+        "runtime": {
+          "Student-Organizer-Desktop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Student-Organizer-Desktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

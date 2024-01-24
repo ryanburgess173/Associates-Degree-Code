@@ -1,0 +1,7 @@
+﻿  MainApplication.cpp
+c:\users\ryanb\source\repos\jrburgess-csc-234-project3\jrburgess-csc-234-project3\mainapplication.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryanb\source\repos\jrburgess-csc-234-project3\jrburgess-csc-234-project3\mainapplication.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryanb\source\repos\jrburgess-csc-234-project3\jrburgess-csc-234-project3\mainapplication.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryanb\source\repos\jrburgess-csc-234-project3\jrburgess-csc-234-project3\mainapplication.cpp(143): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryanb\source\repos\jrburgess-csc-234-project3\jrburgess-csc-234-project3\mainapplication.cpp(153): warning C4018: '<': signed/unsigned mismatch
+  JRBurgess-CSC-234-Project3.vcxproj -> C:\Users\ryanb\source\repos\JRBurgess-CSC-234-Project3\Debug\JRBurgess-CSC-234-Project3.exe

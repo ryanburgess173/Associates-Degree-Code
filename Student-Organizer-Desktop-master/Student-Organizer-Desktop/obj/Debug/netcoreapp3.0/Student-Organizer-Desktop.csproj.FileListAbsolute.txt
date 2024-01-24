@@ -1,0 +1,11 @@
+C:\Users\ryanb\source\repos\Student-Organizer-Desktop\Student-Organizer-Desktop\bin\Debug\netcoreapp3.0\Student-Organizer-Desktop.exe
+C:\Users\ryanb\source\repos\Student-Organizer-Desktop\Student-Organizer-Desktop\bin\Debug\netcoreapp3.0\Student-Organizer-Desktop.deps.json
+C:\Users\ryanb\source\repos\Student-Organizer-Desktop\Student-Organizer-Desktop\bin\Debug\netcoreapp3.0\Student-Organizer-Desktop.runtimeconfig.json
+C:\Users\ryanb\source\repos\Student-Organizer-Desktop\Student-Organizer-Desktop\bin\Debug\netcoreapp3.0\Student-Organizer-Desktop.runtimeconfig.dev.json
+C:\Users\ryanb\source\repos\Student-Organizer-Desktop\Student-Organizer-Desktop\bin\Debug\netcoreapp3.0\Student-Organizer-Desktop.dll
+C:\Users\ryanb\source\repos\Student-Organizer-Desktop\Student-Organizer-Desktop\bin\Debug\netcoreapp3.0\Student-Organizer-Desktop.pdb
+C:\Users\ryanb\source\repos\Student-Organizer-Desktop\Student-Organizer-Desktop\obj\Debug\netcoreapp3.0\Student-Organizer-Desktop.csprojAssemblyReference.cache
+C:\Users\ryanb\source\repos\Student-Organizer-Desktop\Student-Organizer-Desktop\obj\Debug\netcoreapp3.0\Student-Organizer-Desktop.AssemblyInfoInputs.cache
+C:\Users\ryanb\source\repos\Student-Organizer-Desktop\Student-Organizer-Desktop\obj\Debug\netcoreapp3.0\Student-Organizer-Desktop.AssemblyInfo.cs
+C:\Users\ryanb\source\repos\Student-Organizer-Desktop\Student-Organizer-Desktop\obj\Debug\netcoreapp3.0\Student-Organizer-Desktop.dll
+C:\Users\ryanb\source\repos\Student-Organizer-Desktop\Student-Organizer-Desktop\obj\Debug\netcoreapp3.0\Student-Organizer-Desktop.pdb
