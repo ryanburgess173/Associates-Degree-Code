@@ -1,0 +1,33 @@
+.jumbotron {
+    margin-top: 1% !important;
+    background-color: black !important;
+}
+
+form {
+    border: 1px solid white;
+    padding: 1%;
+}
+
+.outputBox {
+    border: 1px solid white;
+    padding: 1%;
+}
+h4 {
+    color: magenta;
+    background-color: rgb(10, 10, 10);
+    padding: 0.7%;
+}
+h1 {
+    color: yellow;
+}
+
+label {
+    color: cyan;
+    font-size: 1.1em;
+}
+
+input {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}

@@ -1,0 +1,83 @@
+.container-fluid{
+	background-color: #090D15;
+}
+header img{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: auto;
+	opacity: 0.6;
+}
+nav li a{
+	color: #B15B4B;
+}
+header h1{
+	color: #BFB4A9;
+	font-family: 'Abril Fatface', cursive;
+	font-size: 7em;
+	padding-top: 20%;
+	position: relative;
+	z-index: 2;
+	left: 2%;
+}
+.navigationLinks{
+	align: inline;
+}
+.navigationLinks li{
+	font-size: 1.6em;
+	font-family: 'Raleway', sans-serif;
+	display: inline;
+	padding-right: 1%;
+}
+.navigationLinks li a{
+	background-color: transparent;
+	color: #BFB4A9;
+	opacity: 1;
+}
+main{
+	background-color: #111726;
+	padding: 2%;
+	border: 1px solid #5E6F80;
+	border-radius: 10px;
+}
+main h2{
+	color: #BFB4A9;
+	font-family: 'Noto Serif', serif;
+	font-size: 2.7em;
+}
+main h3{
+	color: #BFB4A9;
+	font-family: 'Noto Serif', serif;
+}
+main h4{
+	color: #BFB4A9;
+}
+.fieldLabel{
+    color: #78A8AA;
+}
+main p{
+	font-family: 'Raleway', sans-serif;
+	color: #78A8AA;
+	font-size: 1.5em;
+}
+main b{
+	font-family: 'Raleway', sans-serif;
+	color: #78A8AA;
+	font-size: 4em;
+}
+aside{
+	background-color: #78A8AA;
+	padding: 2%;
+	border: 1px solid #111726;
+	border-radius: 10px;
+}
+aside h3{
+	color: #111726;
+	font-family: 'Noto Serif', serif;
+}
+aside p{
+	color: #111726;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.3em;
+}
