@@ -1,0 +1,12 @@
+<h1>{{title}}</h1>
+<p>Welcome to {{title}}</p>
+
+<ul>
+  {{#data}} <!-- # is like a for each -->
+  <li>{{name}}</li><!-- data.name-->
+  <ul>
+    <li>Price: {{wholePrice}}</li>
+    <li>Slice Price: {{slicePrice}}</li>
+  </ul> 
+  {{/data}} <!-- enclosing li-->
+</ul>
