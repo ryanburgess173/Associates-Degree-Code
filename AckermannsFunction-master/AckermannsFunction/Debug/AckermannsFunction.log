@@ -1,0 +1,3 @@
+﻿  App.cpp
+C:\Users\ryanb\source\repos\AckermannsFunction\AckermannsFunction\App.cpp(43): warning C4018: '<': signed/unsigned mismatch
+  AckermannsFunction.vcxproj -> C:\Users\ryanb\source\repos\AckermannsFunction\Debug\AckermannsFunction.exe
