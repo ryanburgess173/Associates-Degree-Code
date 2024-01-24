@@ -1,0 +1,5 @@
+Date: 
+Burger Sales: $261.74
+Fry Sales: $248.57999999999998
+Drink Sales: $59.230000000000004
+Hotdog Sales: $136.957

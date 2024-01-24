@@ -1,0 +1,12 @@
+C:\Users\ryanb\source\repos\CSC-139-Project-1\CSC-139-Project-1\bin\Debug\CSC-139-Project-1.exe.config
+C:\Users\ryanb\source\repos\CSC-139-Project-1\CSC-139-Project-1\bin\Debug\CSC-139-Project-1.exe
+C:\Users\ryanb\source\repos\CSC-139-Project-1\CSC-139-Project-1\bin\Debug\CSC-139-Project-1.pdb
+C:\Users\ryanb\source\repos\CSC-139-Project-1\CSC-139-Project-1\bin\Debug\CSC-139-Project-1.xml
+C:\Users\ryanb\source\repos\CSC-139-Project-1\CSC-139-Project-1\obj\Debug\CSC-139-Project-1.vbprojAssemblyReference.cache
+C:\Users\ryanb\source\repos\CSC-139-Project-1\CSC-139-Project-1\obj\Debug\CSC_139_Project_1.Form1.resources
+C:\Users\ryanb\source\repos\CSC-139-Project-1\CSC-139-Project-1\obj\Debug\CSC_139_Project_1.Resources.resources
+C:\Users\ryanb\source\repos\CSC-139-Project-1\CSC-139-Project-1\obj\Debug\CSC-139-Project-1.vbproj.GenerateResource.cache
+C:\Users\ryanb\source\repos\CSC-139-Project-1\CSC-139-Project-1\obj\Debug\CSC-139-Project-1.vbproj.CoreCompileInputs.cache
+C:\Users\ryanb\source\repos\CSC-139-Project-1\CSC-139-Project-1\obj\Debug\CSC-139-Project-1.exe
+C:\Users\ryanb\source\repos\CSC-139-Project-1\CSC-139-Project-1\obj\Debug\CSC-139-Project-1.xml
+C:\Users\ryanb\source\repos\CSC-139-Project-1\CSC-139-Project-1\obj\Debug\CSC-139-Project-1.pdb
