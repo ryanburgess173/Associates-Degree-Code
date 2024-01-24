@@ -1,0 +1,3 @@
+﻿  Chapter3.cpp
+c:\users\owner\documents\visual studio 2017\projects\chapter3reading\chapter3reading\chapter3.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Chapter3Reading.vcxproj -> C:\Users\Owner\Documents\Visual Studio 2017\Projects\Chapter3Reading\Debug\Chapter3Reading.exe
