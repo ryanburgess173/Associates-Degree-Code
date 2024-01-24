@@ -1,0 +1,15 @@
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\bin\Debug\ManageCustomers.exe.config
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\bin\Debug\ManageCustomers.exe
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\bin\Debug\ManageCustomers.pdb
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\bin\Debug\ManageCustomers.xml
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\obj\Debug\ManageCustomers.vbprojAssemblyReference.cache
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\obj\Debug\ManageCustomers.Form1.resources
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\obj\Debug\ManageCustomers.Resources.resources
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\obj\Debug\ManageCustomers.vbproj.GenerateResource.cache
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\obj\Debug\ManageCustomers.vbproj.CoreCompileInputs.cache
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\obj\Debug\ManageCustomers.exe
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\obj\Debug\ManageCustomers.xml
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\obj\Debug\ManageCustomers.pdb
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\bin\Debug\TailoringBusiness.accdb
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\obj\Debug\ManageCustomers.Form2.resources
+C:\Users\ryanb\source\repos\ManageCustomers\ManageCustomers\obj\Debug\ManageCustomers.Form3.resources

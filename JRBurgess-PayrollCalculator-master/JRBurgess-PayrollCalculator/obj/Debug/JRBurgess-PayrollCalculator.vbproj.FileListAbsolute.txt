@@ -1,0 +1,12 @@
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-PayrollCalculator\bin\Debug\JRBurgess-PayrollCalculator.exe.config
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-PayrollCalculator\bin\Debug\JRBurgess-PayrollCalculator.exe
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-PayrollCalculator\bin\Debug\JRBurgess-PayrollCalculator.pdb
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-PayrollCalculator\bin\Debug\JRBurgess-PayrollCalculator.xml
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-PayrollCalculator\obj\Debug\JRBurgess-PayrollCalculator.vbprojAssemblyReference.cache
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-PayrollCalculator\obj\Debug\JRBurgess_PayrollCalculator.MainApplicationWindow.resources
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-PayrollCalculator\obj\Debug\JRBurgess_PayrollCalculator.Resources.resources
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-PayrollCalculator\obj\Debug\JRBurgess-PayrollCalculator.vbproj.GenerateResource.cache
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-PayrollCalculator\obj\Debug\JRBurgess-PayrollCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-PayrollCalculator\obj\Debug\JRBurgess-PayrollCalculator.exe
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-PayrollCalculator\obj\Debug\JRBurgess-PayrollCalculator.xml
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-PayrollCalculator\obj\Debug\JRBurgess-PayrollCalculator.pdb

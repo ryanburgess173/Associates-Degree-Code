@@ -1,0 +1,12 @@
+C:\Users\ryanb\source\repos\JRBurgess-OrlandoBnB\JRBurgess-OrlandoBnB\bin\Debug\JRBurgess-OrlandoBnB.exe.config
+C:\Users\ryanb\source\repos\JRBurgess-OrlandoBnB\JRBurgess-OrlandoBnB\bin\Debug\JRBurgess-OrlandoBnB.exe
+C:\Users\ryanb\source\repos\JRBurgess-OrlandoBnB\JRBurgess-OrlandoBnB\bin\Debug\JRBurgess-OrlandoBnB.pdb
+C:\Users\ryanb\source\repos\JRBurgess-OrlandoBnB\JRBurgess-OrlandoBnB\bin\Debug\JRBurgess-OrlandoBnB.xml
+C:\Users\ryanb\source\repos\JRBurgess-OrlandoBnB\JRBurgess-OrlandoBnB\obj\Debug\JRBurgess-OrlandoBnB.vbprojAssemblyReference.cache
+C:\Users\ryanb\source\repos\JRBurgess-OrlandoBnB\JRBurgess-OrlandoBnB\obj\Debug\JRBurgess_OrlandoBnB.Form1.resources
+C:\Users\ryanb\source\repos\JRBurgess-OrlandoBnB\JRBurgess-OrlandoBnB\obj\Debug\JRBurgess_OrlandoBnB.Resources.resources
+C:\Users\ryanb\source\repos\JRBurgess-OrlandoBnB\JRBurgess-OrlandoBnB\obj\Debug\JRBurgess-OrlandoBnB.vbproj.GenerateResource.cache
+C:\Users\ryanb\source\repos\JRBurgess-OrlandoBnB\JRBurgess-OrlandoBnB\obj\Debug\JRBurgess-OrlandoBnB.vbproj.CoreCompileInputs.cache
+C:\Users\ryanb\source\repos\JRBurgess-OrlandoBnB\JRBurgess-OrlandoBnB\obj\Debug\JRBurgess-OrlandoBnB.exe
+C:\Users\ryanb\source\repos\JRBurgess-OrlandoBnB\JRBurgess-OrlandoBnB\obj\Debug\JRBurgess-OrlandoBnB.xml
+C:\Users\ryanb\source\repos\JRBurgess-OrlandoBnB\JRBurgess-OrlandoBnB\obj\Debug\JRBurgess-OrlandoBnB.pdb

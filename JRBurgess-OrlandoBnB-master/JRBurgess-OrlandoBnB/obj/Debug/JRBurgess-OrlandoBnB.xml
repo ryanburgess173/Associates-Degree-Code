@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JRBurgess-OrlandoBnB
+</name>
+</assembly>
+<members>
+<member name="T:JRBurgess_OrlandoBnB.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:JRBurgess_OrlandoBnB.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:JRBurgess_OrlandoBnB.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:JRBurgess_OrlandoBnB.Form1">
+ Johnathan R. Burgess
+ 2/10/2019
+ Visual Basic Programming
+ Case Programming Assignment, Chapter 4, Problem #1
+</member>
+</members>
+</doc>
