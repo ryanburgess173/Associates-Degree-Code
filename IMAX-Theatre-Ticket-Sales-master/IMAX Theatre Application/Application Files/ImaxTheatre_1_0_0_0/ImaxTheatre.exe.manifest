@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ImaxTheatre.exe" version="1.0.0.0" publicKeyToken="b4c03708efce2a27" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ImaxTheatre" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ImaxTheatre.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ImaxTheatre.exe" size="4032992">
+      <assemblyIdentity name="ImaxTheatre" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>m8d1eM4nCCPzMtQovnokN7aZjn7UQvGgRD0gGg30vnc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ImaxTheatre.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>c922zfRb5ORzqEo8SDjt8Mx8lDMhGTWhqKcK/oileDM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-JGNREA2\ryanb" issuerKeyHash="f729de522e39d5687c02489751aeb10dc0a5f858" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>voOwLkZ9/TKs0miJ0XHey3qJ5SZhqvKuTqvsksPh8es=</DigestValue></Reference></SignedInfo><SignatureValue>p9JBUDvmFyIAbhGq2Dv6sGD2hJOJ17ES08WUE3VsTQIalgJGwPpnhvmDI0ASE89Knq5PtTKiI8yVO46WO0xRNlZeIbZ0WuX1zF2QDGrR2c5G+T3oxvIdt1GbIG+aF1V1ZrvQLuVf2Ew6rA33zaqjiZz2jN0JhTAS204x7eMSlQQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sP0NZPr+N6zeVoOmBf+2Deg9uE/Ca5xLylE3FHmUZ9a4iWj/BAD7ZJxIvup7RlefkJSuFEJB5BJRHLoaAMXkmk9wXPYRJNiHIzAD/3eXMlW2uDo4y+q7Uf2P3YF7pDrd2Qlib+Hc/a2gASTjU9oEVZobAv0daLCjp1Y3W29LAK0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ebf1e1c392ecab4eaef2aa6126e5897acbde71d18968d2ac32fd7d462eb083be" Description="" Url=""><as:assemblyIdentity name="ImaxTheatre.exe" version="1.0.0.0" publicKeyToken="b4c03708efce2a27" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-JGNREA2\ryanb</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>fUpJWMDA9CzrKcR9WMwGfWFlRG5+co6JDJxbO+Kv0Rw=</DigestValue></Reference></SignedInfo><SignatureValue>OUFHDT2uIfp2KMOTqhx3NjgsWZeAJxOg8Uo3fUUzx7no4sqcs2kM6ZJoAYQWNLYnn8f+DlK3CKbvP8qbTHubdPXD27LtdcQj5BLNoveiShcOY2iUzLvkZ3XYsj0r1yQxOV1ztfUyN1MfLUN4rJ8Aj+nFTmiiiqQrZ+d6/cjvygM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sP0NZPr+N6zeVoOmBf+2Deg9uE/Ca5xLylE3FHmUZ9a4iWj/BAD7ZJxIvup7RlefkJSuFEJB5BJRHLoaAMXkmk9wXPYRJNiHIzAD/3eXMlW2uDo4y+q7Uf2P3YF7pDrd2Qlib+Hc/a2gASTjU9oEVZobAv0daLCjp1Y3W29LAK0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQQzU5civLeoxAwgReuTxNWzANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEoARwBOAFIARQBBADIAXAByAHkAYQBuAGIwHhcNMTkwNDA1MTYzMDMxWhcNMjAwNDA0MjIzMDMxWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEoARwBOAFIARQBBADIAXAByAHkAYQBuAGIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALD9DWT6/jes3laDpgX/tg3oPbhPwmucS8pRNxR5lGfWuIlo/wQA+2ScSL7qe0ZXn5CUrhRCQeQSURy6GgDF5JpPcFz2ESTYhyMwA/93lzJVtrg6OMvqu1H9j92Be6Q63dkJYm/h3P2toAEk41PaBFWaGwL9HWiwo6dWN1tvSwCtAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAr+U/8VD9/6qVfC8DWwBZ3zfGPyoqBPePopkMO7nq1xiZT3jzrT9LjNDrD+wHWEiM8D1e6Fo4q8DRQpMLMhxqIjL9KrVP+BP9MMHivxy7cnjiKCtcK7NfLm8CImT6slt8h5+MFLSptWXzp/c5vnFthwpT1WCpNjrdgNXg8PSWb7E=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

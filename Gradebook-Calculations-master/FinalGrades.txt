@@ -1,0 +1,4 @@
+Donald    	B
+Daisy     	D
+Mickey    	C
+Goofy     	C

@@ -1,0 +1,17 @@
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\bin\Debug\ImaxTheatre.exe.config
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\bin\Debug\ImaxTheatre.exe
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\bin\Debug\ImaxTheatre.pdb
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\bin\Debug\ImaxTheatre.xml
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\obj\Debug\ImaxTheatre.vbprojAssemblyReference.cache
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\obj\Debug\ImaxTheatre.Form1.resources
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\obj\Debug\ImaxTheatre.Resources.resources
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\obj\Debug\ImaxTheatre.SplashScreen1.resources
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\obj\Debug\ImaxTheatre.vbproj.GenerateResource.cache
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\obj\Debug\ImaxTheatre.vbproj.CoreCompileInputs.cache
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\obj\Debug\ImaxTheatre.exe
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\obj\Debug\ImaxTheatre.xml
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\obj\Debug\ImaxTheatre.pdb
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\bin\Debug\ImaxTheatre.exe.manifest
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\bin\Debug\ImaxTheatre.application
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\obj\Debug\ImaxTheatre.exe.manifest
+C:\Users\ryanb\source\repos\ImaxTheatre\ImaxTheatre\obj\Debug\ImaxTheatre.application
