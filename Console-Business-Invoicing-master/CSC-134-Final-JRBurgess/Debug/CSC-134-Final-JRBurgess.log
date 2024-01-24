@@ -1,0 +1,6 @@
+﻿  MyDataStore.cpp
+  TestClass.cpp
+c:\users\owner\source\repos\csc-134-final-jrburgess\csc-134-final-jrburgess\testclass.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+c:\users\owner\source\repos\csc-134-final-jrburgess\csc-134-final-jrburgess\mydatastore.cpp(45): warning C4715: 'MyDataStore::getCustomer': not all control paths return a value
+  CSC-134-Final-JRBurgess.vcxproj -> C:\Users\Owner\source\repos\CSC-134-Final-JRBurgess\Debug\CSC-134-Final-JRBurgess.exe
