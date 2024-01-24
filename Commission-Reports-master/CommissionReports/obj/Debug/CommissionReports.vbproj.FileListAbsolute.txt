@@ -1,0 +1,13 @@
+C:\Users\ryanb\source\repos\CommissionReports\CommissionReports\bin\Debug\CommissionReports.exe.config
+C:\Users\ryanb\source\repos\CommissionReports\CommissionReports\bin\Debug\CommissionReports.exe
+C:\Users\ryanb\source\repos\CommissionReports\CommissionReports\bin\Debug\CommissionReports.pdb
+C:\Users\ryanb\source\repos\CommissionReports\CommissionReports\bin\Debug\CommissionReports.xml
+C:\Users\ryanb\source\repos\CommissionReports\CommissionReports\obj\Debug\CommissionReports.vbprojAssemblyReference.cache
+C:\Users\ryanb\source\repos\CommissionReports\CommissionReports\obj\Debug\CommissionReports.Resources.resources
+C:\Users\ryanb\source\repos\CommissionReports\CommissionReports\obj\Debug\CommissionReports.vbproj.GenerateResource.cache
+C:\Users\ryanb\source\repos\CommissionReports\CommissionReports\obj\Debug\CommissionReports.vbproj.CoreCompileInputs.cache
+C:\Users\ryanb\source\repos\CommissionReports\CommissionReports\obj\Debug\CommissionReports.exe
+C:\Users\ryanb\source\repos\CommissionReports\CommissionReports\obj\Debug\CommissionReports.xml
+C:\Users\ryanb\source\repos\CommissionReports\CommissionReports\obj\Debug\CommissionReports.pdb
+C:\Users\ryanb\source\repos\CommissionReports\CommissionReports\bin\Debug\TailoringBusiness.accdb
+C:\Users\ryanb\source\repos\CommissionReports\CommissionReports\obj\Debug\CommissionReports.Form1.resources
