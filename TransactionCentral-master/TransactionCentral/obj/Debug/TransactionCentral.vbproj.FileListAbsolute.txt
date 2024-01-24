@@ -1,0 +1,15 @@
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\obj\Debug\TransactionCentral.vbprojAssemblyReference.cache
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\obj\Debug\TransactionCentral.Form1.resources
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\obj\Debug\TransactionCentral.Resources.resources
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\obj\Debug\TransactionCentral.Records.resources
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\obj\Debug\TransactionCentral.SplashScreen1.resources
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\obj\Debug\TransactionCentral.vbproj.GenerateResource.cache
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\obj\Debug\TransactionCentral.vbproj.CoreCompileInputs.cache
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\bin\Debug\TailoringBusiness.accdb
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\bin\Debug\TransactionCentral.exe.config
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\bin\Debug\TransactionCentral.exe
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\bin\Debug\TransactionCentral.pdb
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\bin\Debug\TransactionCentral.xml
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\obj\Debug\TransactionCentral.exe
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\obj\Debug\TransactionCentral.xml
+C:\Users\ryanb\source\repos\TransactionCentral\TransactionCentral\obj\Debug\TransactionCentral.pdb
