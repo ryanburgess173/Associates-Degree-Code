@@ -1,0 +1,16 @@
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\bin\Debug\MathTutor.exe.config
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\bin\Debug\MathTutor.exe
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\bin\Debug\MathTutor.pdb
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\bin\Debug\MathTutor.xml
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\obj\Debug\MathTutor.vbprojAssemblyReference.cache
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\obj\Debug\MathTutor.Form1.resources
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\obj\Debug\MathTutor.Resources.resources
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\obj\Debug\MathTutor.vbproj.GenerateResource.cache
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\obj\Debug\MathTutor.vbproj.CoreCompileInputs.cache
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\obj\Debug\MathTutor.exe
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\obj\Debug\MathTutor.xml
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\obj\Debug\MathTutor.pdb
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\bin\Debug\MathTutor.exe.manifest
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\bin\Debug\MathTutor.application
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\obj\Debug\MathTutor.exe.manifest
+C:\Users\ryanb\source\repos\MathTutor\MathTutor\obj\Debug\MathTutor.application
