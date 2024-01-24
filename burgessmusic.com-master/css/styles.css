@@ -1,0 +1,346 @@
+/*
+====================================================
+FONTS TO USE:
+
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Crete Round', serif;
+font-family: 'Pridi', serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Monda', sans-serif;
+
+====================================================
+
+ */
+#logo-outer{
+    width: 150px;
+    height: 150px;
+    background-image: linear-gradient(to right, rgb(240,240,240), rgb(255,255,255), cyan);
+    border-radius: 50%;
+    margin: 2%;
+    position:relative;
+    border: solid 2px grey;
+    float: left;
+}
+#logo-outer:hover{
+    background-image: linear-gradient(to right, rgb(240,240,240), rgb(255,255,255), mediumspringgreen);
+}
+#logo-outer:active{
+    background-image: linear-gradient(to right, rgb(240,240,240), rgb(255,255,255), lightsalmon);
+}
+#logo-middle{
+    width: 58px;
+    height: 58px;
+    background-color: #dcdcdc;
+    border-radius: 50%;
+    margin: 2%;
+    position: relative;
+    top: 28%;
+    left: 28%;
+    border: solid 1px black;
+}
+#logo-inner{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border: solid 1px rgb(140,140,140);
+    border-radius: 50%;
+    margin:2%;
+    position: relative;
+    top: 22%;
+    left: 22%;
+}
+#logo-outer:hover{
+    transform: scale(1.1);
+}
+.header-contents{
+    padding: 1%;
+    margin-bottom: 3%;
+    vertical-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+.header-contents h1{
+    font-weight: bold;
+}
+header{
+    text-align: center;
+}
+/* overriding navbar boostrap style */
+.navbar{
+    border-radius: 0px;
+    font-family: 'Monda', sans-serif;
+    font-weight: bold;
+}
+main{
+    background-color: rgb(40,40,40);
+    padding: 2%;
+    color: white;
+    height: 150%;
+}
+main h2{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-weight: 700;
+    margin-bottom: 2%;
+}
+footer{
+    background-color: rgb(40,40,40);
+    color: white;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Monda', sans-serif;
+    font-weight: 600;
+}
+footer a:hover{
+    color: cyan;
+}
+footer a:active{
+    color: orange;
+}
+footer ul{
+    list-style-type: none;
+}
+main #firstAboutUsImg{
+    float: right;
+    object-fit: contain;
+    margin-left: 3%;
+    transform: scale(1);
+}
+main #secondAboutUsImg{
+    float: left;
+    object-fit: contain;
+    margin-right: 3%;
+    transform: scale(1);
+}
+main p {
+    font-family: 'Pridi', serif;
+    font-weight: 100;
+    line-height: 2em;
+}
+label{
+    font-family: 'Monda', sans-serif;
+    font-weight: 100;
+    padding-right: 4%;
+}
+form input{
+    color: black;
+    font-weight: bold;
+}
+form textarea{
+    color: black;
+    font-weight: bold;
+}
+/* I'm only using !important to override Bootstrap 3 */
+.cyanButton{
+    font-weight: bold !important;
+    color: black !important;
+    background-color: rgb(245,245,245) !important;
+}
+.cyanButton:hover{
+    background-color: cyan !important;
+}
+.homepage-image{
+    height: 320px;
+    width: 330px;
+    padding: 4%;
+}
+#home-table-row-one, #home-table-row-two, #home-table-row-three, #home-table-row-four{
+    display: none;
+    transform: scale(0.9);
+}
+.fadeInContent{
+    display:none;
+}
+/* small phones */
+@media only screen and (min-width: 414px){
+    html{
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    body{
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+    }
+    #subtitle{
+        font-size: 1.5em;
+    }
+    #title{
+        font-size: 3em;
+    }
+    main h2{
+        font-size: 2em;
+    }
+    main p{
+        font-size: 1em;
+    }
+    main #firstAboutUsImg{
+        transform: scale(0.7);
+    }
+    label, form input{
+         font-size: 16px;
+    }
+    form textarea{
+        font-size: 16px;
+    }
+    .homepage-image{
+        height: 100px;
+        width: 110px;
+        padding: 4%;
+    }
+}
+/* large phones */
+@media only screen and (min-width: 768px){
+    html{
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    body{
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+    #subtitle{
+        font-size: 2em;
+    }
+    #title{
+        font-size: 4em;
+    }
+    main h2{
+        font-size: 3em;
+    }
+    main p{
+        font-size: 1.25em;
+    }
+    main #firstAboutUsImg{
+        transform: scale(0.8);
+    }
+    label, form input{
+        font-size: 18px;
+    }
+    form textarea{
+        font-size: 18px;
+    }
+    .homepage-image{
+        height: 170px;
+        width: 180px;
+        padding: 4%;
+    }
+}
+/* tablets */
+@media only screen and (min-width: 1024px){
+    html{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    body{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    #subtitle{
+        font-size: 2.5em;
+    }
+    #title{
+        font-size: 5em;
+    }
+    main h2{
+        font-size: 4em;
+    }
+    main p{
+        font-size: 1.50em;
+    }
+    main #firstAboutUsImg{
+        transform: scale(0.9);
+    }
+    label, form input{
+        font-size: 20px;
+    }
+    form textarea{
+        font-size: 20px;
+    }
+    .homepage-image{
+        height: 200px;
+        width: 210px;
+        padding: 4%;
+    }
+}
+/* smaller laptops and desktops */
+@media only screen and (min-width: 1440px){
+    html{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    body{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    #subtitle{
+        font-size: 2em;
+    }
+    #title{
+        font-size: 4em;
+    }
+    main h2{
+        font-size: 3em;
+    }
+    main p{
+        font-size: 1.75em;
+    }
+    main #firstAboutUsImg{
+        transform: scale(1);
+    }
+    label, form input{
+        font-size: 22px;
+    }
+    form textarea{
+        font-size: 22px;
+    }
+    .homepage-image{
+        height: 240px;
+        width: 250px;
+        padding: 4%;
+    }
+}
+/* larger laptops and desktops */
+@media only screen and (min-width: 1441px){
+    html{
+        margin-left: 11%;
+        margin-right: 11%;
+    }
+    body{
+        margin-left: 12%;
+        margin-right: 12%;
+    }
+    #subtitle{
+        font-size: 3em;
+    }
+    #title{
+        font-size: 6em;
+    }
+    main h2{
+        font-size: 4em;
+    }
+    main p{
+        font-size: 1.5em;
+    }
+    main #firstAboutUsImg{
+        transform: scale(1.1);
+    }
+    label, form input{
+        font-size: 24px;
+    }
+    form textarea{
+        font-size: 24px;
+    }
+    .homepage-image{
+        height: 260px;
+        width: 270px;
+        padding: 4%;
+    }
+}
+@media only screen and (min-width: 1750px){
+    .homepage-image{
+        height: 320px;
+        width: 330px;
+        padding: 4%;
+    }
+}
