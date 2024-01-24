@@ -1,0 +1,17 @@
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\bin\Debug\JRBurgess-Project-2.exe.config
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\bin\Debug\JRBurgess-Project-2.exe
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\bin\Debug\JRBurgess-Project-2.pdb
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\bin\Debug\JRBurgess-Project-2.xml
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\obj\Debug\JRBurgess-Project-2.vbprojAssemblyReference.cache
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\obj\Debug\JRBurgess_Project_2.Resources.resources
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\obj\Debug\JRBurgess-Project-2.vbproj.GenerateResource.cache
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\obj\Debug\JRBurgess-Project-2.vbproj.CoreCompileInputs.cache
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\obj\Debug\JRBurgess-Project-2.exe
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\obj\Debug\JRBurgess-Project-2.xml
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\obj\Debug\JRBurgess-Project-2.pdb
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\obj\Debug\JRBurgess_Project_2.VendingMachine.resources
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\obj\Debug\JRBurgess_Project_2.SplashScreen1.resources
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\bin\Debug\JRBurgess-Project-2.exe.manifest
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\bin\Debug\JRBurgess-Project-2.application
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\obj\Debug\JRBurgess-Project-2.exe.manifest
+C:\Users\ryanb\source\repos\JRBurgess-Project-2\JRBurgess-Project-2\obj\Debug\JRBurgess-Project-2.application
