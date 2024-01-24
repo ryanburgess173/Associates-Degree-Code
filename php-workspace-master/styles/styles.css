@@ -1,0 +1,19 @@
+#mainTable{
+    border:0;
+}
+.inputTd{
+    text-align:center;
+}
+
+.BTN{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 20%;
+    margin-left: 40%;
+    text-align: center;
+}
+.BTN:hover{
+    background-color: darkgrey;
+}

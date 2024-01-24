@@ -1,0 +1,5 @@
+Sam_Jones   45.5    -1
+Sally_Smith 38.5    10.50
+Tony_Casper 38  -1
+Jane_Simmons    50  8.25
+Clyde_Key   35  17.50
