@@ -1,0 +1,12 @@
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-BuildingPlansConversion\bin\Debug\JRBurgess-BuildingPlansConversion.exe.config
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-BuildingPlansConversion\bin\Debug\JRBurgess-BuildingPlansConversion.exe
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-BuildingPlansConversion\bin\Debug\JRBurgess-BuildingPlansConversion.pdb
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-BuildingPlansConversion\bin\Debug\JRBurgess-BuildingPlansConversion.xml
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-BuildingPlansConversion\obj\Debug\JRBurgess-BuildingPlansConversion.vbprojAssemblyReference.cache
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-BuildingPlansConversion\obj\Debug\JRBurgess_BuildingPlansConversion.Form1.resources
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-BuildingPlansConversion\obj\Debug\JRBurgess_BuildingPlansConversion.Resources.resources
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-BuildingPlansConversion\obj\Debug\JRBurgess-BuildingPlansConversion.vbproj.GenerateResource.cache
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-BuildingPlansConversion\obj\Debug\JRBurgess-BuildingPlansConversion.vbproj.CoreCompileInputs.cache
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-BuildingPlansConversion\obj\Debug\JRBurgess-BuildingPlansConversion.exe
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-BuildingPlansConversion\obj\Debug\JRBurgess-BuildingPlansConversion.xml
+C:\Users\ryanb\AppData\Local\Temporary Projects\JRBurgess-BuildingPlansConversion\obj\Debug\JRBurgess-BuildingPlansConversion.pdb
